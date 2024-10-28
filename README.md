@@ -9,11 +9,11 @@ I solved 15 specific analytical questions using SQL, demonstrating proficiency i
 
 ## **Key Objectives**
 
-1.**Identify Restaurant Performance:** Determine top-rated restaurants and high-revenue generators.
-2.**Customer Behavior Analysis**: Analyze user ordering patterns and high-demand menu items.
-3.**Operational Insights**: Measure average delivery times and successful delivery counts by delivery personnel.
-4.**Payment Analysis:** Understand the distribution of online payment methods and their frequency.
-5.**Complaint Analysis**: Identify common complaint types and restaurants associated with late deliveries.
+1. **Identify Restaurant Performance:** Determine top-rated restaurants and high-revenue generators.
+2. **Customer Behavior Analysis**: Analyze user ordering patterns and high-demand menu items.
+3. **Operational Insights**: Measure average delivery times and successful delivery counts by delivery personnel.
+4. **Payment Analysis:** Understand the distribution of online payment methods and their frequency.
+5. **Complaint Analysis**: Identify common complaint types and restaurants associated with late deliveries.
 
 ## **SQL Techniques Utilized**
 * **Aggregate Functions**: Used for calculations like total revenue, average rating, and order counts.
